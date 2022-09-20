@@ -1,0 +1,16 @@
+{
+
+  "type": "module",
+
+  "dependencies": {
+
+    "bson": "^4.7.0",
+
+    "mongodb": "^4.10.0",
+
+    "mongodb-connection-string-url": "^2.5.3"
+
+  }
+
+}
+

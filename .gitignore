@@ -1,0 +1,5 @@
+# Ignore all node modules
+/node_modules
+
+# Ignore all modules with the .data extension
+*.data
